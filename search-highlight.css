@@ -1,0 +1,23 @@
+/* Search highlight styles */
+.search-highlight {
+    background-color: #ffeb3b !important;
+    color: #000 !important;
+    padding: 2px 4px !important;
+    border-radius: 3px !important;
+    font-weight: bold !important;
+    box-shadow: 0 0 5px rgba(255, 235, 59, 0.5);
+    animation: pulse 1s infinite;
+}
+
+@keyframes pulse {
+    0% { box-shadow: 0 0 5px rgba(255, 235, 59, 0.5); }
+    50% { box-shadow: 0 0 15px rgba(255, 235, 59, 0.8); }
+    100% { box-shadow: 0 0 5px rgba(255, 235, 59, 0.5); }
+}
+
+.scroll-to-highlight {
+    scroll-margin-top: 100px;
+    border: 3px solid #ffeb3b;
+    border-radius: 10px;
+    background: linear-gradient(145deg, #fff, #f8f9fa);
+}

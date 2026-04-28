@@ -1,0 +1,1 @@
+# TODO: Remove Email from Pesan Meja Form (book.html)\n\n## Task Overview\nRemove email input field from booking form in book.html.\n\n✅ Step 1: Create TODO.md (current)\n✅ Step 2: Read book.html (done)\n✅ Step 3: Edit book.html - Remove email input div\n✅ Step 4: Test form submission via browser/custom.js\n✅ Step 5: Update TODO.md & Complete task\n\n## Status: ✅ COMPLETED
